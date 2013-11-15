@@ -1,8 +1,11 @@
 # Vesper Export
 
 ## Description
-A script to export your notes from the Vesper iOS app to text files.
+A script to export your notes from the [Vesper](http://vesperapp.co) iOS app to text files.
 Exported notes can include markdown formatting with the --markdown switch.
+
+## Limitations
+This was tested with Vesper 1.003 and may not work with later versions as the app's internal data structures change over time.
 
 ## Usage
 
